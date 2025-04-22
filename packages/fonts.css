@@ -1,0 +1,10 @@
+/*********************************
+            IMPORT
+**********************************/
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+:root{
+    --default_font: "Josefin Sans", sans-serif;
+    --title_font: "Cormorant Garamond", serif;
+    --styled_font: ;
+}
